@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alphabytecore/alphabytecore/main/assets/logo.png" width="96" alt="AlphaByteCore"/>
+<img src="./logo.png" width="96" alt="AlphaByteCore"/>
 
 # AlphaByteCore
 
